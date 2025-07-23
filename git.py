@@ -10,3 +10,10 @@ print("successfully")
 def fun3():
         print("push pull commit")
 fun3()
+class mk:
+        def add(self):
+                print("class created method printed")
+
+obj1=mk()
+res=obj1.add()
+print(res)
