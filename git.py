@@ -17,3 +17,4 @@ class mk:
 obj1=mk()
 res=obj1.add()
 print(res)
+print("here is how we can create class")
