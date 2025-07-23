@@ -7,7 +7,3 @@ Result=fun2(2,3)
 print(Result)
 def age1():
     print("age")
-def diff():
-    print("checking git status")
-
-diff()
