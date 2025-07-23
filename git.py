@@ -6,3 +6,4 @@ fun()
 def hello():
         print("hellofun 2")
 hello()
+print("successfully")
